@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketing Management Analytics"
+  short_description: "Clean survey data, test relationships, and profile consumers."
+  default_prompt: "Use $marketing-management-analytics to clean my marketing survey data, chart purchase questions, run tests and models, build personas, and draft a formal market research report."
